@@ -1,6 +1,4 @@
 -👋 Hi, I’m @amriitmohapatra
 -👀 I’m interested in public health research, with a focus on infectious disease modeling using mechanistic, Bayesian, and statistical approaches.
--🌱 I’m currently learning Machine Learning and Big Data Concepts for applications in public health, and I'm familiar with tools like sklearn, tensorflow, and pyspark.
 -💼 I’m working as a Research Assistant and a PhD Student at the National University of Singapore in Public Health.
--💞️ I’m looking to collaborate on machine learning projects in public health, social sector issues, and policy-related modeling.
 -📫 How to reach me: I am available at amrit.mohapatra97@gmail.com.
